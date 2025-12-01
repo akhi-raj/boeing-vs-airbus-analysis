@@ -200,5 +200,5 @@ Clone the repository:
 
 ```bash
 
-git clone https://github.com/yourusername/boeing-vs-airbus-analysis.git
+git clone https://github.com/akhi-raj/boeing-vs-airbus-analysis.git
 
