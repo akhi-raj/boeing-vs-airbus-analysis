@@ -16,9 +16,9 @@ The analysis focuses on understanding aircraft distribution, age, performance in
 
 
 
-\- Analyze the structure and composition of the aircraft dataset  
+\1 Analyze the structure and composition of the aircraft dataset  
 
-\- Compare Boeing and Airbus fleets based on various parameters such as:
+\2 Compare Boeing and Airbus fleets based on various parameters such as:
 
 &nbsp; - Aircraft model
 
@@ -30,9 +30,9 @@ The analysis focuses on understanding aircraft distribution, age, performance in
 
 &nbsp; - Aircraft category
 
-\- Identify manufacturer trends and patterns  
+\3 Identify manufacturer trends and patterns  
 
-\- Visualize insights using Python libraries like pandas, seaborn, and matplotlib
+\4 Visualize insights using Python libraries like pandas, seaborn, and matplotlib
 
 
 
