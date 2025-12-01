@@ -12,7 +12,7 @@ The analysis focuses on understanding aircraft distribution, age, performance in
 
 
 
-\##  Project Objectives
+##  Project Objectives
 
 
 
@@ -40,7 +40,7 @@ The analysis focuses on understanding aircraft distribution, age, performance in
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -55,18 +55,11 @@ URL used in notebook:
 https://raw.githubusercontent.com/akhi-raj/boeing-vs-airbus-analysis/main/Fleet%20Dataset.csv
 
 
-
-markdown
-
-Copy code
-
-
-
 ---
 
 
 
-\## Technologies Used
+## Tools Used
 
 
 
@@ -88,7 +81,7 @@ Copy code
 
 
 
-\## Key Steps in the Notebook
+## Key Steps in the Notebook
 
 
 
@@ -140,13 +133,13 @@ Copy code
 
 
 
-\## Possible Enhancements (Recommended)
+## Possible Enhancements (Recommended)
 
 To make this analysis more compelling, consider adding:
 
 
 
-\### \*\*More EDA\*\*
+### \*\*More EDA\*\*
 
 \- Top 10 most common aircraft models  
 
@@ -162,7 +155,7 @@ To make this analysis more compelling, consider adding:
 
 
 
-\### \*\*Advanced Analytics\*\*
+### \*\*Advanced Analytics\*\*
 
 \- Clustering aircraft types using K-Means  
 
@@ -174,7 +167,7 @@ To make this analysis more compelling, consider adding:
 
 
 
-\### \*\*Dashboard (Optional)\*\*
+### \*\*Dashboard (Optional)\*\*
 
 Create an interactive dashboard using:
 
@@ -190,7 +183,7 @@ Create an interactive dashboard using:
 
 
 
-\## How to Use
+## How to Use
 
 
 
