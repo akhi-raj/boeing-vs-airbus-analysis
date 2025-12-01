@@ -171,11 +171,7 @@ To make this analysis more compelling, consider adding:
 
 Create an interactive dashboard using:
 
-\- Streamlit  
-
-\- Plotly Dash  
-
-\- Power BI / Tableau  
+\- Power BI  
 
 
 
