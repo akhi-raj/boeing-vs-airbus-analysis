@@ -65,6 +65,8 @@ https://raw.githubusercontent.com/akhi-raj/boeing-vs-airbus-analysis/main/Fleet%
 
 \- Python 3  
 
+\- Anaconda
+
 \- Jupyter Notebook  
 
 \- pandas  
